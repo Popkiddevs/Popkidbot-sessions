@@ -1,4 +1,4 @@
-# BELTAH-MD-session-generator
+# POPKID-MD-session-generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -8,7 +8,7 @@
 QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/Beltahmd">
+   <a href="https://github.com/Popkid-ke">
     
      
 </a>
@@ -17,11 +17,11 @@ QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 
 
 
-[`Contact Owner`](https://wa.me/254114141192)
+[`Contact Owner`](https://wa.me/254111385747)
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Beltahmd/beltah-md-Sessions/fork"><img title="WEB" src="https://img.shields.io/badge/FORK LEGACY-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://popkidsessionspair-7468bef1d860.herokuapp.com/fork"><img title="WEB" src="https://img.shields.io/badge/FORK LEGACY-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 # `Owner`
