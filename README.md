@@ -8,7 +8,7 @@
 QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/Popkid-ke">
+   <a href="https://github.com/Popkiddevs">
     
      
 </a>
@@ -26,9 +26,9 @@ FORK THE REPOSITORY (Repo)
 
 # `Owner`
 
- <a href="https://github.com/Brashokish"><img src="https://telegra.ph/file/61cc2fe7866ef604d4506.jpg" width="250" height="250" alt="Brasho Kish"/></a>
+ <a href="https://github.com/Brashokish"><img src="https://i.ibb.co/YbKtM3b/IMG-20241024-WA0298-1.jpg" width="250" height="250" alt="Brasho Kish"/></a>
 
 # `Contributor` 
-<a href="https://github.com/Brashokish">
+<a href="https://github.com/Popkiddevs">
 **KISH**
    
