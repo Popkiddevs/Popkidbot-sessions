@@ -64,16 +64,16 @@ router.get('/', async (req, res) => {
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
 
 *FOLLOW OUR CHANNEL*
-𓄂 *https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l*
+❤️ *https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l*
 
 *JOIN OUR GROUP*
-𓄂 *https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI*
+🌹 *https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI*
 
 *VISIT FOR TUTORIALS*
-𓄂 *https://www.youtube.com/@POPKIDtech2024*
+❤️ *https://www.youtube.com/@POPKIDtech2024*
 
 *DEVELOPER: POPKID TECH*
-𓄂 *https://wa.me/254111385747*
+🌹 *https://wa.me/254111385747*
 
 *POWERED BY POPKID TECH AND MADE WITH 💎*
 
